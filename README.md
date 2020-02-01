@@ -1,5 +1,7 @@
 # Read EOF Data from Portable Executable File (x86 / x64)
 
+![EOF Reader](https://i.ibb.co/5WJjfVD/Screenshot-2020-02-01-at-10-22-18.png "EOF Reader")
+
 This program detect the presence of suspicious EOF data from any valid PE File.
 
 Malware often use append to the end of file :
