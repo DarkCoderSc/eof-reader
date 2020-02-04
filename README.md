@@ -1,6 +1,6 @@
 # Read EOF Data from Portable Executable File (x86 / x64)
 
-![EOF Reader](https://i.ibb.co/5WJjfVD/Screenshot-2020-02-01-at-10-22-18.png "EOF Reader")
+![EOF Reader](https://i.imgur.com/XaZfB5v.jpg "EOF Reader")
 
 This program detects the presence of suspicious EOF data from any valid PE File.
 
